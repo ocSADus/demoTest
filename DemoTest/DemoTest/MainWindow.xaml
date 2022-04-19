@@ -19,10 +19,10 @@
             <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
                 <Button Content="Sign In"
                         Margin="5"
-                        MinWidth="100" />
+                        MinWidth="100" Background="DarkSlateBlue" Foreground="White"/>
                 <Button Content="Sign Up"
                         Margin="5"
-                        MinWidth="100" />
+                        MinWidth="100" Background="MediumSeaGreen"/>
             </StackPanel>
         </StackPanel>
     </Grid>
